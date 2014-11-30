@@ -1,7 +1,7 @@
 a2id-to-uid
 ================
 
-A [http://golang.org/](Go lang) webservice for mapping athene2 uuids to ory uids.
+A [Go lang](http://golang.org/) webservice for mapping athene2 uuids to ory uids.
 
 ## Running
 
