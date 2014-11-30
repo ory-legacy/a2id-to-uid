@@ -22,7 +22,7 @@ Request `GET /as2id2uids/{{uid}}` and you'll receive `{}`, if no entry has been 
 
 ```
 {
-  "result": 1234
+  "result": "uuid1313"
 }
 ```
 
@@ -32,7 +32,7 @@ Request `GET /as2id2uids/{{a2id}}` and you'll receive `{}`, if no entry has been
 
 ```
 {
-  "result": "uuid1313"
+  "result": 1234
 }
 ```
 
