@@ -3,7 +3,10 @@ a2id-to-uid
 
 A [Go lang](http://golang.org/) webservice for mapping athene2 uuids to ory uids.
 
-## Running
+## Installing & Running
+
+1. `go get github.com/ory-systems/a2id-to-uid`
+2. `go run $GOROOT/github.com/ory-systems/a2id-to-ui/main.go`
 
 ## API
 
