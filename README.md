@@ -1,2 +1,2 @@
-athene2id-to-uid
+a2id-to-uid
 ================
