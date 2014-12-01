@@ -5,8 +5,19 @@ A [Go lang](http://golang.org/) webservice for mapping athene2 uuids to ory uids
 
 ## Installing & Running
 
+Things you'll need:
+
+* [Go lang](http://golang.org/)
+* [Docker](http://docker.io/)
+
+Installation:
+
 1. `go get github.com/ory-systems/a2id-to-uid`
 2. `go run $GOROOT/github.com/ory-systems/a2id-to-ui/main.go`
+
+Start Mongo via docker:
+
+1. `docker run -d -p 27017:27017 --name mongodb dockerfile/mongodb`
 
 ## API
 
